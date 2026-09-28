@@ -24,17 +24,9 @@ h2{
     border: 1px solid black;
 }
 
-.j-2-1{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    border: 1px solid black;
-}
 
-.j-2-2{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    border: 1px solid black;
-}
+
+
 .j-sood-kol{
     display: grid;
     grid-template-columns: 1fr 1fr;
